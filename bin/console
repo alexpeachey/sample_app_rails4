@@ -1,0 +1,2 @@
+#!/usr/bin/env bash
+./bin/foreman run spring rails console
